@@ -71,6 +71,6 @@ uvicorn main:app --reload
 5.Expose via ngrok
 ngrok http 8000
 
-TEAM
+### TEAM
 ALEGBELEYE OPEYEMI MICHEAL - System Architecture, Backend Engineering,Edge programming
 OYEBISI HAKEEM - Hardware and Firmware Engineer
