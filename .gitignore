@@ -1,0 +1,8 @@
+venv/
+.env
+aquacare.db
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+irrigation.db
